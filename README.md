@@ -7,7 +7,7 @@
 
 - 📫 you can reach me with [my contact info](https://ahmedsamir45.github.io/ahsamir-links/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19YLjB9_5PI5Mia3B3lMs80GiTzz35hpD/view?usp=sharing](https://drive.google.com/file/d/19YLjB9_5PI5Mia3B3lMs80GiTzz35hpD/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/drive/u/0/folders/1rR8PseIKDfnAgEscw6UfLx4gKKL7I9MZ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

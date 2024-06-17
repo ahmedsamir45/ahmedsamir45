@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm ahmed samir</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Samir</h1>
 <h3 align="center">interested in web development , data science and cyber security</h3>
 
-- 👨‍💻 All of my projects are available at [https://ahmedsamir45.github.io/my-portfolio/](https://ahmedsamir45.github.io/my-portfolio/)
+- 👨‍💻 you can see my projects in [my portfolio](https://ahmedsamir45.github.io/my-portfolio/)
 
 - 💬 Ask me about **Flask JavaScript CSS & TensorFlow**
 
-- 📫 How to reach me **ahmedsamer6788@gmail.com**
+- 📫 you can reach me with [my contact info](https://ahmedsamir45.github.io/ahsamir-links/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19YLjB9_5PI5Mia3B3lMs80GiTzz35hpD/view?usp=sharing](https://drive.google.com/file/d/19YLjB9_5PI5Mia3B3lMs80GiTzz35hpD/view?usp=sharing)
 
@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/ahmed-samir-917ba22a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-samir-917ba22a5" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmedsamir6788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedsamir6788" height="30" width="40" /></a>
 <a href="https://www.behance.net/ahmedsamer66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmedsamer66" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahmed samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed samir" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCdP5YKiCrzXs_e0xuBL-EWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed samir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedsamer6788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedsamer6788" height="30" width="40" /></a>
 </p>
 

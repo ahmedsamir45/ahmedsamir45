@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samir</h1>
 <h3 align="center">interested in web development , data science and cyber security</h3>
 
-- 👨‍💻 you can see my projects in [my portfolio](https://ahmedsamir45.github.io/my-portfolio/)
+- 👨‍💻 you can see my projects in [my portfolio](https://ahmedsamir45.github.io/my-portfolio-/)
 
 - 💬 Ask me about **Flask JavaScript CSS & TensorFlow**
 

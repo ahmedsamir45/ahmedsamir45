@@ -141,7 +141,3 @@ graph LR
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedsamir45.ahmedsamir45" alt="visitors" />
 </div>
 
-<div align="center">
-  ![Snake animation](https://github.com/ahmedsamir45/ahmedsamir45/blob/output/github-contribution-grid-snake.svg)
-</div>
-

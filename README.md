@@ -138,7 +138,6 @@ graph LR
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedsamir45&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamir45" /> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedsamir45.ahmedsamir45" alt="visitors" />
 </div>
 
 

@@ -11,13 +11,13 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-samir-917ba22a5">
+  <a href="https://ahmedsamir45.github.io/my-portfolio-/">
     <img src="https://img.shields.io/badge/✨_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=121212" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/drive/u/0/folders/1rR8PseIKDfnAgEscw6UfLx4gKKL7I9MZ">
     <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-  <a href="mailto:ahmedsamir6788@gmail.com">
+  <a href="https://ahmedsamir45.github.io/ahsamir-links/">
     <img src="https://img.shields.io/badge/📫_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
   </a>
 </p>
@@ -25,16 +25,26 @@
 ---
 
 ### 🚀 About Me
+```mermaid
+graph LR
+  A[Passionate Developer] --> B[Web Technologies]
+  A --> C[Data Science]
+  A --> D[Cybersecurity]
+  B --> E[React, Django, Flask]
+  C --> F[Python, TensorFlow]
+  D --> G[Linux, Networking]
+```
+
 - 🎓 **Computer Science & Mathematics** student at **Helwan University**
 - 💻 Passionate about **web development**, **data science**, and **cybersecurity**
-- 🛠️ **Tech Stack**: React, Django, Flask, TensorFlow, Docker
-- 🌱 Currently learning **Cloud Technologies** and **Advanced Cybersecurity**
-- 🎤 Enjoy teaching programming and sharing knowledge
-- ⚡ Fun fact: I solve coding problems for fun!
+- 🚀 Constantly learning and building projects to expand my skills
+- 🎤 Enjoy **teaching programming** and sharing knowledge
+- 🌱 Currently diving deeper into **Docker** and **cloud technologies**
 
 ---
 
 ### 🛠 Tech Stack
+<div align="center">
 
 #### **Programming Languages**
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 10px 0;">
@@ -65,6 +75,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
+</div>
+
 ---
 
 ### 📈 GitHub Analytics
@@ -72,7 +84,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir45&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%;" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir45&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
+  <img src="https://streak-stats.demolab.com?user=ahmedsamir45&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir45&layout=compact&theme=radical&langs_count=6" alt="Top Languages" style="max-width: 100%;" />
   
@@ -127,5 +139,7 @@
 </div>
 
 <div align="center">
-  ![Snake animation](https://github.com/ahmedsamir45/ahmedsamir45/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/ahmedsamir45/ahmedsamir45/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+```
+

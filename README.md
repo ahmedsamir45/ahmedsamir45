@@ -11,13 +11,13 @@
 </div>
 
 <p align="center">
-  <a href="https://ahmedsamir45.github.io/my-portfolio-/">
+  <a href="https://linkedin.com/in/ahmed-samir-917ba22a5">
     <img src="https://img.shields.io/badge/✨_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=121212" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/drive/u/0/folders/1rR8PseIKDfnAgEscw6UfLx4gKKL7I9MZ">
     <img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://ahmedsamir45.github.io/ahsamir-links/">
+  <a href="mailto:ahmedsamir6788@gmail.com">
     <img src="https://img.shields.io/badge/📫_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
   </a>
 </p>
@@ -25,26 +25,16 @@
 ---
 
 ### 🚀 About Me
-```mermaid
-graph LR
-  A[Passionate Developer] --> B[Web Technologies]
-  A --> C[Data Science]
-  A --> D[Cybersecurity]
-  B --> E[React, Django, Flask]
-  C --> F[Python, TensorFlow]
-  D --> G[Linux, Networking]
-```
-
 - 🎓 **Computer Science & Mathematics** student at **Helwan University**
 - 💻 Passionate about **web development**, **data science**, and **cybersecurity**
-- 🚀 Constantly learning and building projects to expand my skills
-- 🎤 Enjoy **teaching programming** and sharing knowledge
-- 🌱 Currently diving deeper into **Docker** and **cloud technologies**
+- 🛠️ **Tech Stack**: React, Django, Flask, TensorFlow, Docker
+- 🌱 Currently learning **Cloud Technologies** and **Advanced Cybersecurity**
+- 🎤 Enjoy teaching programming and sharing knowledge
+- ⚡ Fun fact: I solve coding problems for fun!
 
 ---
 
 ### 🛠 Tech Stack
-<div align="center">
 
 #### **Programming Languages**
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 10px 0;">
@@ -75,8 +65,6 @@ graph LR
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-</div>
-
 ---
 
 ### 📈 GitHub Analytics
@@ -104,11 +92,11 @@ graph LR
   </a>
   
   <a href="https://github.com/ahmedsamir45/UR-Social-Media">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=social_media_app&theme=radical" alt="UR Social Media" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=UR-Social-Media&theme=radical" alt="UR Social Media" />
   </a>
   
   <a href="https://github.com/ahmedsamir45/Big-Mac-Index-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=big_mac_index&theme=radical" alt="Big Mac Index App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=Big-Mac-Index-App&theme=radical" alt="Big Mac Index App" />
   </a>
   
 </div>
@@ -134,11 +122,8 @@ graph LR
   </a>
 </p>
 
-
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedsamir45&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamir45" /> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedsamir45.ahmedsamir45" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedsamir45&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamir45" />
 </div>
 
 <div align="center">

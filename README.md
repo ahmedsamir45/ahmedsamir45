@@ -84,7 +84,7 @@ graph LR
   
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir45&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%;" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir45&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
+
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir45&layout=compact&theme=radical&langs_count=6" alt="Top Languages" style="max-width: 100%;" />
   

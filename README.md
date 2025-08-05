@@ -104,11 +104,11 @@ graph LR
   </a>
   
   <a href="https://github.com/ahmedsamir45/UR-Social-Media">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=UR-Social-Media&theme=radical" alt="UR Social Media" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=social_media_app&theme=radical" alt="UR Social Media" />
   </a>
   
   <a href="https://github.com/ahmedsamir45/Big-Mac-Index-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=Big-Mac-Index-App&theme=radical" alt="Big Mac Index App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=big_mac_index&theme=radical" alt="Big Mac Index App" />
   </a>
   
 </div>

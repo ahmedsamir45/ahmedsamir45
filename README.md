@@ -84,7 +84,7 @@ graph LR
   
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir45&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%;" />
   
-  <img src="https://streak-stats.demolab.com?user=ahmedsamir45&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir45&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir45&layout=compact&theme=radical&langs_count=6" alt="Top Languages" style="max-width: 100%;" />
   
@@ -104,11 +104,11 @@ graph LR
   </a>
   
   <a href="https://github.com/ahmedsamir45/UR-Social-Media">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=UR-Social-Media&theme=radical" alt="UR Social Media" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=social_media_app&theme=radical" alt="UR Social Media" />
   </a>
   
   <a href="https://github.com/ahmedsamir45/Big-Mac-Index-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=Big-Mac-Index-App&theme=radical" alt="Big Mac Index App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=big_mac_index&theme=radical" alt="Big Mac Index App" />
   </a>
   
 </div>
@@ -134,12 +134,12 @@ graph LR
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedsamir45&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamir45" />
-</div>
+
 
 <div align="center">
-  <img src="https://github.com/ahmedsamir45/ahmedsamir45/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedsamir45&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamir45" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedsamir45.ahmedsamir45" alt="visitors" />
 </div>
-```
+
+
 

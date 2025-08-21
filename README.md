@@ -43,7 +43,7 @@ graph LR
 
 ---
 ### 📫 Let's Connect
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
   <a href="https://www.linkedin.com/in/ahmedsamir45/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

@@ -39,7 +39,7 @@ graph LR
 - 💻 Passionate about **web development**, **data science**, and **cybersecurity**
 - 🚀 Constantly learning and building projects to expand my skills
 - 🎤 Enjoy **teaching programming** and sharing knowledge
-- 🌱 Currently diving deeper into **Docker** and **cloud technologies**
+- 🌱 Currently diving deeper into **Backend** and **System Architecture**
 
 ---
 

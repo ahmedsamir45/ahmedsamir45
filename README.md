@@ -80,7 +80,7 @@ graph LR
 ---
 
 ### 📈 GitHub Analytics
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
   
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir45&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%;" />
   

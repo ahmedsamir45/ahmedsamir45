@@ -45,19 +45,19 @@ graph LR
 ### 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedsamir45/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2/ffffff" width="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://kaggle.com/ahmedsamir6788" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF/ffffff" width="40" alt="Kaggle"/>
+  <a href="https://www.kaggle.com/ahmedsamir6788" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" alt="Kaggle"/>
   </a>
   <a href="https://www.behance.net/ahmedsamer66" target="_blank">
-    <img src="https://cdn.simpleicons.org/behance/1769ff/ffffff" width="40" alt="Behance"/>
+    <img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance"/>
   </a>
   <a href="https://www.youtube.com/channel/UCdP5YKiCrzXs_e0xuBL-EWA" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/ff0000/ffffff" width="40" alt="YouTube"/>
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
   </a>
   <a href="https://www.codewars.com/users/ahmedsamir45" target="_blank">
-    <img src="https://cdn.simpleicons.org/codewars/B1361E/ffffff" width="40" alt="Codewars"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Codewars_logo.svg" width="48" alt="Codewars"/>
   </a>
 </p>
 

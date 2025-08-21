@@ -44,10 +44,10 @@ graph LR
 ---
 
 ### 🛠 Tech Stack
-<div align="center">
+<div>
 
 #### **Programming Languages**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 10px 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; margin: 10px 0;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -58,7 +58,7 @@ graph LR
 </div>
 
 #### **Frameworks & Libraries**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 10px 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; margin: 10px 0;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -95,19 +95,19 @@ graph LR
 ### 🌟 Featured Projects
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
   
-  <a href="https://github.com/ahmedsamir45/SAF-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=SAF-Website&theme=radical" alt="SAF Website" />
+  <a href="https://github.com/ahmedsamir45/Big-Skills">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=Big-Skills&theme=radical" alt="SAF Website" />
   </a>
   
-  <a href="https://github.com/ahmedsamir45/Tytopya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=Tytopya&theme=radical" alt="Tytopya" />
+  <a href="https://github.com/ahmedsamir45/tytopya">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=tytopya&theme=radical" alt="Tytopya" />
   </a>
   
-  <a href="https://github.com/ahmedsamir45/UR-Social-Media">
+  <a href="https://github.com/ahmedsamir45/social_media_app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=social_media_app&theme=radical" alt="UR Social Media" />
   </a>
   
-  <a href="https://github.com/ahmedsamir45/Big-Mac-Index-App">
+  <a href="https://github.com/ahmedsamir45/big_mac_index">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=big_mac_index&theme=radical" alt="Big Mac Index App" />
   </a>
   

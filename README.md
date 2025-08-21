@@ -43,21 +43,21 @@ graph LR
 
 ---
 ### 📫 Let's Connect
-<p align="center" >
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmedsamir45/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://kaggle.com/ahmedsamir6788" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.icons8.com/windows/48/20BEFF/kaggle.png" alt="Kaggle"/>
   </a>
   <a href="https://www.behance.net/ahmedsamer66" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+    <img src="https://img.icons8.com/color/48/0054F7/behance.png" alt="Behance"/>
   </a>
   <a href="https://www.youtube.com/channel/UCdP5YKiCrzXs_e0xuBL-EWA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.icons8.com/color/48/FF0000/youtube-play.png" alt="YouTube"/>
   </a>
   <a href="https://www.codewars.com/users/ahmedsamir45" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codewars-a-community-of-software-developers-logo-color-tal-revivo.png" alt="Codewars"/>
   </a>
 </p>
 

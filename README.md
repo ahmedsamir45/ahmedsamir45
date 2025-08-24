@@ -6,9 +6,10 @@
 
 <h3 align="center" style="font-family: 'Segoe UI', sans-serif">Building digital solutions with passion and precision</h3>
 
-<div align="center">
+<div style="text-align:center;">
   <img src="https://github-profile-trophy.vercel.app/?username=ahmedsamir45&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
+
 
 <p align="center">
   <a href="https://ahmedsamir45.github.io/my-portfolio-/">
@@ -135,6 +136,9 @@ graph LR
   </a>
 </p>
 
+<div style="text-align:center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedsamir45&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
 
 
 

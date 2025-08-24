@@ -134,6 +134,8 @@ graph LR
   </a>
 </p>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ahmedsamir45/ahmedsamir45/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</div>
 
 

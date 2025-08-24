@@ -6,9 +6,7 @@
 
 <h3 align="center" style="font-family: 'Segoe UI', sans-serif">Building digital solutions with passion and precision</h3>
 
-<div style="text-align:center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedsamir45&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
+
 
 
 <p align="center">

@@ -137,7 +137,7 @@ graph LR
 </p>
 
 <div style="text-align:center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedsamir45&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/ahmedsamir45/ahmedsamir45/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 

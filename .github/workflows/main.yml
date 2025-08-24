@@ -2,9 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # runs every day at midnight
-    - cron: "0 0 * * *"
-  workflow_dispatch:  # allow running manually
+    - cron: "0 0 * * *"   # run every day at midnight
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -25,5 +24,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist/*.svg"
-          branch: output
+          new_branch: output   # ✅ بدل branch
           message: "Generate snake animation"

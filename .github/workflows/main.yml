@@ -9,12 +9,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ahmedsamir45
-          svg_out_path: ./output/github-contribution-grid-snake.svg
-      - uses: EndBug/add-and-commit@v9
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake files
+        uses: EndBug/add-and-commit@v9
         with:
-          branch: main
-          message: "Update snake animation"
+          add: "dist/*.svg"
+          branch: output
+          message: "Generate snake animation"

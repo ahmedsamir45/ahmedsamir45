@@ -60,9 +60,7 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-![ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamir45&show_icons=true&theme=radical)
-</p>
+![GitHub Stats](https://streak-stats.demolab.com?user=ahmedsamir45&theme=default&hide_border=true)>
 
 ---
 

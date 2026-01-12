@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Samir;Full+Stack+Developer;Software+Developer;" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Samir;Full+Stack+Developer;Software+Developer;" />
   </a>
 </h1>
 
@@ -23,16 +23,6 @@
 ---
 
 ## 🚀 About Me
-```mermaid
-graph LR
-  A[Passionate Developer] --> B[Web Technologies]
-  A --> C[Data Science]
-  A --> D[Cybersecurity]
-  B --> E[React, Django, Flask]
-  C --> F[Python, TensorFlow]
-  D --> G[Linux, Networking]
-```
-
 - 🎓 Computer Science & Mathematics student at **Helwan University**
 - 💻 Full Stack Developer with strong backend focus
 - 🔐 Interested in **Cybersecurity** and **System Architecture**
@@ -71,28 +61,30 @@ graph LR
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir45&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir45&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir45&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/ahmedsamir45/Big-Skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=Big-Skills&theme=radical" />
-  </a>
-  <a href="https://github.com/ahmedsamir45/tytopya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsamir45&repo=tytopya&theme=radical" />
-  </a>
-</p>
+
+### 🔹 Big Skills
+🚀 Educational platform for learning programming  
+🔧 Django · React · PostgreSQL  
+👉 https://github.com/ahmedsamir45/Big-Skills
+
+### 🔹 Tytopya
+🤖 AI-powered chatbot & RAG system  
+🔧 Flask · LangChain · Vector Databases  
+👉 https://github.com/ahmedsamir45/tytopya
 
 ---
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedsamir45&theme=radical&no-frame=true&row=1" />
-</p>
+- ⭐ Active GitHub contributor
+- 🧠 Strong problem-solving skills (Codewars)
+- 🚀 Built Full Stack & AI-driven applications
+- 🐧 Linux & backend-focused developer
 
 ---
 
@@ -114,5 +106,3 @@ graph LR
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmedsamir45/ahmedsamir45/output/dist/github-contribution-grid-snake-dark.svg" />
 </p>
-
-

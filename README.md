@@ -60,27 +60,13 @@
 ---
 
 ## 📈 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=ahmedsamir45&theme=highcontrast&hide_border=true&bg_color=00000000" alt="ahmedsamir45's GitHub Stats" />
+
 <p align="center">
-
-
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedsamir45&layout=compact&theme=highcontrast&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
----
 
-## 🌟 Featured Projects
 
-### 🔹 Big Skills
-🚀 Educational platform for learning programming  
-🔧 Django · React · PostgreSQL  
-👉 https://github.com/ahmedsamir45/Big-Skills
 
-### 🔹 Tytopya
-🤖 AI-powered chatbot & RAG system  
-🔧 Flask · LangChain · Vector Databases  
-👉 https://github.com/ahmedsamir45/tytopya
-
----
 
 ## 🏆 Achievements
 - ⭐ Active GitHub contributor

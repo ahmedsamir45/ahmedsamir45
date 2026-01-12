@@ -61,8 +61,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-<img src="https://ahmed-github-stats.vercel.app/api?username=ahmedsamir45&show_icons=true" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamir45&show_icons=true&theme=radical)
 </p>
 
 ---

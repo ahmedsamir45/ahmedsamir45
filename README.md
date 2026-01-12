@@ -61,6 +61,11 @@
 
 ## 📈 GitHub Stats
 <img src="https://streak-stats.demolab.com?user=ahmedsamir45&theme=default&hide_border=true" alt="ahmedsamir45's GitHub Stats" />
+<p align="center">
+
+  <img src="https://github-readme-stats-umber.vercel.app/api?username=ahmedsamir45&show_icons=true&theme=highcontrast&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedsamir45&layout=compact&theme=highcontrast&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+</p>
 ---
 
 ## 🌟 Featured Projects

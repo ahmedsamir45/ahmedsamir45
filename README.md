@@ -16,9 +16,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedsamir45&style=flat-square&color=blue" />
-</p>
+
 
 ---
 

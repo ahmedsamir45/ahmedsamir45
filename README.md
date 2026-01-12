@@ -60,8 +60,7 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://streak-stats.demolab.com?user=ahmedsamir45&theme=default&hide_border=true)>
-
+<img src="https://streak-stats.demolab.com?user=ahmedsamir45&theme=default&hide_border=true" alt="ahmedsamir45's GitHub Stats" />
 ---
 
 ## 🌟 Featured Projects
